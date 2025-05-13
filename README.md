@@ -7,7 +7,7 @@ This project aims to systematically explore and implement adversarial attacks on
 ## Directory Structure
 
 ```
-├── Remo_modify_Complete.ipynb   # Main Jupyter Notebook with code and experiments
+├── final.ipynb   # Main Jupyter Notebook with code and experiments
 ├── TestDataSet/                 # Test image dataset (100 classes, 500 images)
 ├── Adversarial_Test_Set_1/      # Adversarial samples from FGSM attack
 ├── Adversarial_Test_Set_2/      # Adversarial samples from improved attack
@@ -28,7 +28,7 @@ This project aims to systematically explore and implement adversarial attacks on
 ## How to Run
 
 1. Download and extract `TestDataSet` into the project root directory.
-2. Open `Remo_modify_Complete.ipynb` and run all cells in order to reproduce the experiments and visualizations.
+2. Open `final.ipynb` and run all cells in order to reproduce the experiments and visualizations.
 3. Generated adversarial samples will be saved in `Adversarial_Test_Set_1/2/3` folders automatically.
 
 ## Main Tasks
